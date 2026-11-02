@@ -12,5 +12,5 @@
     <File Path=".github/workflows/build-check.yml" />
     <File Path=".github/workflows/release-nuget.yml" />
   </Folder>
-  <Project Path="src/RemarksPlugin/EwERemarksPlugin.vbproj" />
+  <Project Path="RemarksPlugin/EwERemarksPlugin.vbproj" />
 </Solution>
